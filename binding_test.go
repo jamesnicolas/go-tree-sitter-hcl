@@ -1,3 +1,5 @@
+// Copyright (c) 2019 Maxim Sukharev
+
 package hcl_test
 
 import (
